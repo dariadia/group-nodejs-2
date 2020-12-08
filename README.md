@@ -6,7 +6,7 @@ or
 #### News reader (branch lesson-5)
 
 To start this project locally:
-(+you should have docker installed and Mongo-container configured and running)
+(+you should have docker installed and Mongo-container running)
 
 ```
 cd dariadia
